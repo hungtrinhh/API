@@ -4,7 +4,7 @@
       "name": "name 1",
       "desc": 11,
       "price": 49,
-      "sale_price": 98,
+      "sale_price": 100,
       "status": true,
       "id": "1"
     },
